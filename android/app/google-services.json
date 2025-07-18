@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069015224617",
+    "project_id": "rumah-sakit-hermina-7f135",
+    "storage_bucket": "rumah-sakit-hermina-7f135.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069015224617:android:091810612ab1a93b2e2738",
+        "android_client_info": {
+          "package_name": "com.example.patient_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXEPiu2fv_LDZZkH7UX5yQDmqzcgesuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
